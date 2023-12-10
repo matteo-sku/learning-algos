@@ -1,0 +1,17 @@
+{
+  "name": "binary-search",
+  "module": "src/index.ts",
+  "scripts": {
+    
+  },
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^20.10.4"
+  }
+}
